@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Amara Diallo",
+    "email": "amara.diallo@uni-nord.example",
+    "deposit": "50",
+    "sessions": 8.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "REFUND NOW"
+  },
+  {
+    "name": "Anneke Bos",
+    "email": "anneke.bos@orgalpha.example",
+    "deposit": "200",
+    "sessions": 9.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "ALREADY REFUNDED"
+  },
+  {
+    "name": "Chiara Bianchi",
+    "email": "chiara.bianchi@mailbox.example",
+    "deposit": "200",
+    "sessions": 9.0,
+    "reflections": "8/9",
+    "eligible": false,
+    "action": "NO REFUND"
+  },
+  {
+    "name": "Daniel Okoro",
+    "email": "d.okoro@uni-nord.example",
+    "deposit": "50",
+    "sessions": 7.0,
+    "reflections": "9/9",
+    "eligible": false,
+    "action": "NO REFUND"
+  },
+  {
+    "name": "Daniel Reyes",
+    "email": "daniel.reyes@mailbox.example",
+    "deposit": "50",
+    "sessions": 8.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "ALREADY REFUNDED"
+  },
+  {
+    "name": "Emily Carter",
+    "email": "emily.carter@mailbox.example",
+    "deposit": "200",
+    "sessions": 9.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "ALREADY REFUNDED"
+  },
+  {
+    "name": "Greta Sommer",
+    "email": "greta.sommer@orgalpha.example",
+    "deposit": "200",
+    "sessions": 9.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "ALREADY REFUNDED"
+  },
+  {
+    "name": "Hannah Lindgren",
+    "email": "hannah.lindgren@mailbox.example",
+    "deposit": "200",
+    "sessions": 7.0,
+    "reflections": "9/9",
+    "eligible": false,
+    "action": "NO REFUND"
+  },
+  {
+    "name": "Jonas Feld",
+    "email": "jonas.feld@orgbeta.example",
+    "deposit": "200",
+    "sessions": 8.5,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "REFUND NOW"
+  },
+  {
+    "name": "Katarzyna Wolny",
+    "email": "k.wolny@mailbox.example",
+    "deposit": "200",
+    "sessions": 8.5,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "ALREADY REFUNDED"
+  },
+  {
+    "name": "Liang Wei",
+    "email": "liang.wei@orgbeta.example",
+    "deposit": "200",
+    "sessions": 9.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "ALREADY REFUNDED"
+  },
+  {
+    "name": "Noor Rahman",
+    "email": "noor.rahman@uni-nord.example",
+    "deposit": "50",
+    "sessions": 9.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "ALREADY REFUNDED"
+  },
+  {
+    "name": "Priya Nair",
+    "email": "priya.nair@orgalpha.example",
+    "deposit": "200",
+    "sessions": 9.0,
+    "reflections": "9/9",
+    "eligible": true,
+    "action": "REFUND NOW"
+  },
+  {
+    "name": "Oluwaseun Bello",
+    "email": "seun.bello@mailbox.example",
+    "deposit": "50",
+    "sessions": 7.0,
+    "reflections": "8/9",
+    "eligible": false,
+    "action": "NO REFUND"
+  },
+  {
+    "name": "Sofia Marchetti",
+    "email": "sofia.marchetti@mailbox.example",
+    "deposit": "200",
+    "sessions": 9.0,
+    "reflections": "8/9",
+    "eligible": false,
+    "action": "NO REFUND"
+  }
+]

@@ -1,0 +1,16 @@
+name,email,deposit,sessions,reflections,eligible,action
+Amara Diallo,amara.diallo@uni-nord.example,50,8.0,9/9,True,REFUND NOW
+Anneke Bos,anneke.bos@orgalpha.example,200,9.0,9/9,True,ALREADY REFUNDED
+Chiara Bianchi,chiara.bianchi@mailbox.example,200,9.0,8/9,False,NO REFUND
+Daniel Okoro,d.okoro@uni-nord.example,50,7.0,9/9,False,NO REFUND
+Daniel Reyes,daniel.reyes@mailbox.example,50,8.0,9/9,True,ALREADY REFUNDED
+Emily Carter,emily.carter@mailbox.example,200,9.0,9/9,True,ALREADY REFUNDED
+Greta Sommer,greta.sommer@orgalpha.example,200,9.0,9/9,True,ALREADY REFUNDED
+Hannah Lindgren,hannah.lindgren@mailbox.example,200,7.0,9/9,False,NO REFUND
+Jonas Feld,jonas.feld@orgbeta.example,200,8.5,9/9,True,REFUND NOW
+Katarzyna Wolny,k.wolny@mailbox.example,200,8.5,9/9,True,ALREADY REFUNDED
+Liang Wei,liang.wei@orgbeta.example,200,9.0,9/9,True,ALREADY REFUNDED
+Noor Rahman,noor.rahman@uni-nord.example,50,9.0,9/9,True,ALREADY REFUNDED
+Priya Nair,priya.nair@orgalpha.example,200,9.0,9/9,True,REFUND NOW
+Oluwaseun Bello,seun.bello@mailbox.example,50,7.0,8/9,False,NO REFUND
+Sofia Marchetti,sofia.marchetti@mailbox.example,200,9.0,8/9,False,NO REFUND
